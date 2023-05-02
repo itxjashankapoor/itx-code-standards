@@ -1,3 +1,5 @@
+#Please follow the practices for writing a good code
+
 
 [Branch Naming Conventions](BranchNaming.md)
 
